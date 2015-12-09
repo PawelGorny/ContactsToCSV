@@ -1,0 +1,21 @@
+package com.pawelgorny.contacts2csv.translate;
+
+originalLocale Root;
+
+progress#0=0;
+phone#0=1;
+language#0=2;
+name#0=3;
+newLine#0=4;
+Contactsnotfound#0=5;
+exportCompleted#0=6;
+title#0=7;
+APPDESC#0=8;
+organisation#0=9;
+separator#0=10;
+target#0=11;
+encoding#0=12;
+Birthdate#0=13;
+revDate#0=14;
+exTitle#0=15;
+THANKYOU#0=16;

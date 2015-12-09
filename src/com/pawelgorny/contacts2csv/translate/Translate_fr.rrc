@@ -1,0 +1,17 @@
+APPDESC#0="Programme qui exporte les donnees dans un fichier csv";
+Birthdate#0="Birthdate";
+Contactsnotfound#0="Contact non trouve";
+THANKYOU#0="Merci!";
+encoding#0="Encodage";
+exTitle#0="Fonction";
+exportCompleted#0="Exportation complete. Fichier cree: ";
+language#0="FR";
+name#0="Nom";
+newLine#0="Nouvelle ligne:";
+organisation#0="Organisation";
+phone#0="Telephone";
+progress#0="Progres:";
+revDate#0="Date de modification";
+separator#0="Separateur:";
+target#0="Destination:";
+title#0="Exporte les contacts dans un csv";

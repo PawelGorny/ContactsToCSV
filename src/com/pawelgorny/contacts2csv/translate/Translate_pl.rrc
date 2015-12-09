@@ -1,0 +1,17 @@
+APPDESC#0="Program eksportuje list\u0119 kontaktów do pliku csv";
+Birthdate#0="Urodziny";
+Contactsnotfound#0="Nie znaleziono kontaktów";
+THANKYOU#0="Dzi\u0119kuj\u0119!";
+encoding#0="Kodowanie";
+exTitle#0="Tytu\u0142";
+exportCompleted#0="Eksport zako\u0144czony, utworzono plik: ";
+language#0="PL";
+name#0="Nazwa";
+newLine#0="nowa linia:";
+organisation#0="Organizacja";
+phone#0="Telefon";
+progress#0="Post\u0119p:";
+revDate#0="Data zmiany";
+separator#0="Separator pól:";
+target#0="Cel:";
+title#0="eksport kontaktów do CSV";

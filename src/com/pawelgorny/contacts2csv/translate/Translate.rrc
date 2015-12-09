@@ -1,0 +1,17 @@
+APPDESC#0="Program exports contacts to csv file.";
+Birthdate#0="Birthdate";
+Contactsnotfound#0="Contacts not found";
+THANKYOU#0="Thank you!";
+encoding#0="Encoding";
+exTitle#0="Title";
+exportCompleted#0="Export completed. File Created: ";
+language#0="EN";
+name#0="Name";
+newLine#0="new line:";
+organisation#0="Organization";
+phone#0="Phone";
+progress#0="Progress:";
+revDate#0="Revision Date";
+separator#0="Fields separator:";
+target#0="Destination:";
+title#0="export contacts to csv";

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pawel/workspace2/adv/For_Post6.0.0/net_rim_bbapi_adv_app.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 7.1.0"/>
+	<classpathentry kind="src" path=".locale_interfaces"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
